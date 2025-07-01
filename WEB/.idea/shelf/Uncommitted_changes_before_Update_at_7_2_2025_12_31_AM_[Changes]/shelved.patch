@@ -1,0 +1,92 @@
+Index: one.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/one.html b/one.html
+new file mode 100644
+--- /dev/null	(date 1751382225751)
++++ b/one.html	(date 1751382225751)
+@@ -0,0 +1,21 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>DOM learning</title>
++</head>
++<body style="background-color: #212121; color: #ffffff">
++<div class="bg-black"  >
++    <div class="parent">
++        <div class="days">Monday</div>
++        <div class="days">Tuesday</div>
++        <div class="days">Wednesday</div>
++        <div class="days">Thursday</div></div>
++</div>
++<script>
++    const parent = document.querySelector('.parent');
++    console.log(parent);
++    console.log(parent.children);
++</script>
++</body>
++</html>
+\ No newline at end of file
+Index: ../.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.gitignore b/../.gitignore
+new file mode 100644
+--- /dev/null	(date 1751388882466)
++++ b/../.gitignore	(date 1751388882466)
+@@ -0,0 +1,1 @@
++/WEB/js-hindi-youtube-main/
+Index: guessgamecode.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/guessgamecode.js b/guessgamecode.js
+new file mode 100644
+--- /dev/null	(date 1751396486998)
++++ b/guessgamecode.js	(date 1751396486998)
+@@ -0,0 +1,39 @@
++const ans = Math.round(Math.random() * 100 + 1);
++console.log(ans);
++const form = document.querySelector('.form');
++form.addEventListener('submit', function (event) {
++    event.preventDefault();
++
++    const input = parseInt(document.querySelector('#guessField').value);
++    console.log(input);
++    let guessArr = [];
++    let prev = Array(document.querySelector('.guesses'));
++    console.log(prev);
++    const livesElement = document.querySelector('.lastResult');
++    let lives = parseInt(livesElement.innerHTML, 10);
++    console.log(lives);
++
++    const stat = document.querySelector('.lowOrHi');
++
++    for (i = lives; i > 0; i--) {
++        if (input === ans) {
++            stat.innerHTML = 'You guessed correct number';
++            break;
++        } else if (input < ans) {
++            stat.innerHTML = 'Your guess is small';
++            lives--;
++            livesElement.innerHTML = lives;
++            break;
++        } else {
++            stat.innerHTML = 'Your guess is larger.';
++            lives--;
++            livesElement.innerHTML = lives;
++            break;
++        }
++        prev.innerHTML = guessArr.push(input);
++    }
++    if (lives == 0) {
++        stat.innerHTML = `Sorry but you lost. The answer was ${ans}`;
++    }
++    return;
++});
