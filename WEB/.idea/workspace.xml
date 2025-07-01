@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b724a9c6-8613-4855-9526-5273a30577a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/.devcontainer/devcontainer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/01_variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/02_dataTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/03_conversionOperation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/04_comparision.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/05_strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/06_nums_and_math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/07_datesinJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/datatypes-summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/01_basics/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/02_basics/01_arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/02_basics/02_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/02_basics/03_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/02_basics/04_objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/03_basics/01_functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/03_basics/02_scopes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/03_basics/03_arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/03_basics/04_iife.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/04_control_flow/one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/04_control_flow/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/04_control_flow/truthy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/five.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/four.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/nine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/one.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/seven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/six.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/three.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/05_iterations/two.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/06_dom/four.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/06_dom/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/06_dom/three.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/06_dom/two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/07_projects/projectsset1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/08_events/eventbasics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/08_events/one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/08_events/three.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/08_events/two.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/09_advance_one/ApiRequest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/09_advance_one/promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/09_advance_one/promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/Prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/call.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/getter_setter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/inheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/mathpi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/myClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/object_get_set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/oop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/properties_get_set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/10_classes_and_oop/staticprop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/11_fun_with_js/closure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-hindi-youtube-main/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kaustubh-gaur"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kaustubh-gaur/practice-code-files.git",
+    "accountId": "c86c9bd2-f083-4b27-bd57-bf93d2654003"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2zH5COnC78pVjeN7PPpP8fVe5Lj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.one.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Personal Code Files/WEB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b724a9c6-8613-4855-9526-5273a30577a4" name="Changes" comment="" />
+      <created>1751375030061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751375030061</updated>
+      <workItem from="1751375031416" duration="8779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
